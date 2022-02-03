@@ -2,7 +2,7 @@ Collections:
 - Name: swin
   Metadata:
     Training Data:
-    - ADE20K____
+    - ADE20K
   Paper:
     URL: https://arxiv.org/abs/2103.14030
     Title: 'Swin Transformer: Hierarchical Vision Transformer using Shifted Windows'
